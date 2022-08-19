@@ -17,7 +17,7 @@ Alpine.js - https://alpinejs.dev/
 ## Build project
 ```npm run build```
 
-## Run production version
+## Run build/production version
 Run index.html file. You can use the Live server to run index.html.
 
 Location: dist/index.html

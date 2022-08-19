@@ -29,4 +29,4 @@ Edit package.json file.
 
 Change the entry point here.
 
-"main": "src/js/script.js",
+```"main": "src/js/script.js",```

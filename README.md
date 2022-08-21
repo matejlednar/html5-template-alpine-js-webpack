@@ -1,4 +1,4 @@
-# Alpine.js Template + webpack (Boilerplate + Build tool)
+# HTML5 Template + Alpine.js  + webpack (Boilerplate + Build tool)
 
 HTML5 template with CSS, JavaScript, Alpine.js, images, and fonts support. The build tool is included (CSS and JS optimization support).
 

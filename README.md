@@ -28,6 +28,8 @@ Location: dist/index.html
 
 ### npm
 
+#### JavaScript entry point
+
 Edit package.json file.
 
 Change the entry point here.

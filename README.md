@@ -36,7 +36,7 @@ Change the entry point here.
 
 ### webpack
 
-## output directory
+#### Output directory
 
 Edit webpack.config.js file.
 
